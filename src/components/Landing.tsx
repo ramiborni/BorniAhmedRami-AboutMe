@@ -13,7 +13,7 @@ const Landing = () => {
           I'm 22 Years old living in Algeria, a Computer Science Student at University Mohamed
           Khider <br />
           I'm a <span className="font-bold">Full Stack Web Developer</span> and{" "}
-          <span className="font-bold">Mobile Developer</span> with <span className="font-bold">3</span> years experience
+          <span className="font-bold">Mobile Developer</span>
         </p>
         <br/>
         <ContactMe />
