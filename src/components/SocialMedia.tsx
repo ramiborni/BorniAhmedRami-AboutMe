@@ -28,7 +28,7 @@ const SocialMedia = () => {
       icon: <FontAwesomeIcon icon={faLinkedin} size="2x" />,
       title: "LinkedIn",
       color: "#003cff",
-      url: "https://www.facebook.com/borniramy",
+      url: "https://www.linkedin.com/in/borni-ahmed-rami-3018b2156/",
     },
     {
       icon: <FontAwesomeIcon icon={faTwitter} size="2x" />,
