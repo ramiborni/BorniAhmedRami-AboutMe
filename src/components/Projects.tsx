@@ -30,7 +30,7 @@ const Projects = () => {
     },
     {
       title:"Jojo characters wiki",
-      img:'https://i.imgur.com/Yac2C1L.png',
+      img:'jojo.png',
       link:'https://jojo-khaki.vercel.app/',
       techs:['React','TailwindCSS','NextJs']
     }
