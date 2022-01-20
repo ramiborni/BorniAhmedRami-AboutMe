@@ -27,6 +27,12 @@ const Projects = () => {
         img:'dco.png',
         link:'https://dco-website.vercel.app/',
         techs:['React','Material-UI','NextJs']
+    },
+    {
+      title:"Jojo characters wiki",
+      img:'jojo.png',
+      link:'https://jojo-khaki.vercel.app/',
+      techs:['React','TailwindCSS','NextJs']
     }
 
   ];
