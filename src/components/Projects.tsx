@@ -13,8 +13,8 @@ const Projects = () => {
     {
         title:"HardWork DZ Website Prototype",
         img:'hardwork.png',
-        link:'https://biblio-national.vercel.app/',
-        techs:['Vue','Vuetify','NuxtJs']
+        link:'https://hardwork.vercel.app/',
+        techs:['React','Material-UI','NextJs']
     },
     {
         title:"DZ National Library Prototype",
