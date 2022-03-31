@@ -39,7 +39,13 @@ const Projects = () => {
       img:'ecfmm.jpg',
       link:'https://www.ecfmm-dz.com/',
       techs:['React','TailwindCSS','NextJS']
-    }
+    },
+    {
+      title:'NB News Prototype',
+      img:'nbnews.png',
+      link:'https://nb-tv.vercel.app',
+      techs:['React','TailwindCSS','NextJS']
+    },
 
   ];
   return (
