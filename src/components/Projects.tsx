@@ -7,7 +7,7 @@ const Projects = () => {
     {
       title: "Hackathon DZ",
       img: "hackathondz.png",
-      link: "https://www.hackathon2021.dz",
+      link: "https://github.com/rikiraspoutine/Hackathon-DZ",
       techs:['Vue','Vuetify','NuxtJs']
     },
     {
@@ -33,6 +33,12 @@ const Projects = () => {
       img:'jojo.png',
       link:'https://jojo-khaki.vercel.app/',
       techs:['React','TailwindCSS','NextJs']
+    },
+    {
+      title:"ECFMM WEBSITE",
+      img:'ecfmm.jpg',
+      link:'https://www.ecfmm-dz.com/',
+      techs:['React','TailwindCSS','NextJS']
     }
 
   ];
