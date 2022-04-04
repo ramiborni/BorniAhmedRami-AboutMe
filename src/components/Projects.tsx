@@ -46,6 +46,12 @@ const Projects = () => {
       link:'https://nb-tv.vercel.app',
       techs:['React','TailwindCSS','NextJS']
     },
+    {
+      title:'RamWeather APP',
+      img:'ramweather.png',
+      link:'https://ramweather.vercel.app/',
+      techs:['React','TailwindCSS','Class Based Components']
+    }
 
   ];
   return (
